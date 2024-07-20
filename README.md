@@ -23,7 +23,7 @@ lsb_release -c
 
 `Codename`为版本代号，24.04此处为`noble`
 
-![image-20240720140811329](.\assets\image-20240720140811329.png)
+<img src="assets\1.png" alt="image-20240720140811329" />
 
 
 
@@ -31,7 +31,7 @@ lsb_release -c
 
 1. **将对应版本代号下的包上传至服务器的某个文件夹**
 
-   ![image-20240720143727967](.\assets\image-20240720143727967.png)
+   ![image-20240720143727967](.\assets\2.png)
 
 2. **服务器进入该文件夹执行命令**
 
