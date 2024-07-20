@@ -23,7 +23,7 @@ lsb_release -c
 
 `Codename`为版本代号，24.04此处为`noble`
 
-![image-20240720140811329](.\assets\image-20240720140811329.png)
+<img src=".\assets\1.png" alt="image-20240720140811329" />
 
 
 
